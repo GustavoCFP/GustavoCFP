@@ -6,6 +6,8 @@
 </div>
 
 -----
+[![Profile Views](https://komarev.com/ghpvc/?username=GustavoCFP&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+-----
 
 <div align="center">
 <table>
