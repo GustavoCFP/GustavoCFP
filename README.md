@@ -48,7 +48,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 23 anos, moro em BH. Atualmente sou <code>Estudante</code> de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://aramuni.dev/">aramuni.dev</a>
+<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 23 anos, moro em BH. Atualmente sou <code>Estudante</code> de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
 </div>
 
 -----
